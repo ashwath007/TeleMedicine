@@ -1,0 +1,30 @@
+.landingpage {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    /* border: 0.3em solid black; */
+}
+
+.landingpage__right {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 500px;
+    align-items: center;
+    /* border: 0.3em solid black; */
+}
+
+.landingpage__button {
+    color: white;
+    /* text-align: center; */
+    margin-top: 20px;
+    margin-bottom: 30px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 10px;
+    border-radius: 100px;
+    padding-bottom: 10px;
+    background: #7AC342;
+    /* border: 0.3em solid black; */
+}

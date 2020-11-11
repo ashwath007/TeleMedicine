@@ -1,0 +1,12 @@
+.details {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    height: 500px;
+}
+
+.detail_btn {
+    width: 350px;
+    margin-bottom: 30px;
+}

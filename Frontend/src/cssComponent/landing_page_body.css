@@ -1,0 +1,27 @@
+.page_body {
+    display: flex;
+    flex-direction: row;
+
+    justify-content: space-around;
+    margin-top: 100px;
+}
+
+.page_body_left {
+
+    width: 500px;
+    margin-left: 20px;
+}
+
+.page_body_right {
+    width: 500px;
+}
+
+.land_btn {
+    margin-left: 100px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    color: white;
+    background: #7AC342;
+}
