@@ -2,4 +2,4 @@
 
 TeleMedicine
 
-![alt text](./teli.png)
+![alt text](./tele.png)
