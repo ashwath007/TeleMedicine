@@ -6,4 +6,4 @@ Survey Report - https://docs.google.com/forms/d/e/1FAIpQLSerkyhVL8uHZ2hRgiJjVb78
 
 ![alt text](./tele.png)
 
-![alt text](./pro.gif)
+
