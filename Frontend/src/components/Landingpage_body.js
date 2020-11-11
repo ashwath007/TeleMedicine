@@ -1,6 +1,7 @@
 import React from 'react';
 import '../cssComponent/landing_page_body.css';
 import img from '../assets/docpic.png';
+import pro from '../pro/ddd.JPG'
 function Landingpage_body() {
 	return (
 		<div className='page_body'>
@@ -22,7 +23,7 @@ function Landingpage_body() {
 				</button>
 			</div>
 			<div className='page_body_right'>
-				<img src={img} width='260px' />
+				<img src={pro} width='560px' />
 			</div>
 		</div>
 	);
