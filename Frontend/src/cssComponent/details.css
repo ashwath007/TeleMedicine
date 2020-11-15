@@ -1,7 +1,14 @@
 .details {
     display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.details_input {
+    display: flex;
     justify-content: center;
     flex-direction: column;
+    margin-left: 100px;
     align-items: center;
     height: 500px;
 }

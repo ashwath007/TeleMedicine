@@ -2,4 +2,27 @@
     display: flex;
     flex-direction: row;
     justify-content: space-around;
+    background-color: #51F05B;
+    color: white;
+    align-items: center;
+
+}
+
+.dashboard__input {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.dashboard__input__left {
+    display: flex;
+    flex-direction: column;
+}
+
+.dashboard__text {
+    margin-top: 400px;
+}
+
+.dashboard__botton {
+    margin-top: 100px;
 }

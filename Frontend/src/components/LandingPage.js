@@ -6,10 +6,10 @@ function LandingPage() {
 		<div>
 			<div className='landingpage'>
 				<div className='landingpage__left'>
-					<h3>MediJi</h3>
+					<h3>Meditalk</h3>
 				</div>
 				<div className='landingpage__right'>
-					<h5>About Mediji</h5>
+					<h5>About Meditalk</h5>
 					<Link to='/details'>
 						<button
 							type='button'
